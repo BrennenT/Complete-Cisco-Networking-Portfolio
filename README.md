@@ -21,7 +21,7 @@ Network Security/Administration
 
 Linux
    * [Two Linux Distribution Configuration](lete-Cisco-Networking-Portfolio/blob/main/Portfolio/Linux%20Distributions%20Lab.docx)
-   *  Both RADIUS and PfSense run on Linux Distribtions
+   *  Both RADIUS and PfSense run on Linux Distributions
 Amazon AWS
    * [EC2](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EC2%20Instance.docx)
    * [EBS](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EBS%20Instance.docx)
