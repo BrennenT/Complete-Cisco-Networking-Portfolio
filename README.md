@@ -20,7 +20,13 @@ Network Security/Administration
 
 
 * Linux
+   * [Two Linux Distribution Configuration](lete-Cisco-Networking-Portfolio/blob/main/Portfolio/Linux%20Distributions%20Lab.docx)
+   *  Both RADIUS and PfSense run on Linux Distribtions
 * Amazon AWS
+   * [EC2](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EC2%20Instance.docx)
+   * [EBS](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EBS%20Instance.docx)
+   * [Load Balancing](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20Load%20Balancing.docx)
+   
 * Routing
   * BGP
     * [eBGP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20eBGP%20Redistribution.docx)
@@ -30,7 +36,7 @@ Network Security/Administration
     * [Multi-Area](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20Multi-Area%20OSPF.docx)
   * EIGRP
     * [EIGRP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20EIGRP.docx)
-  * VRF
+  * VRF Lite
     * [VRF](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/VRF%20Lite.docx)
 
 
