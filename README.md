@@ -1,6 +1,7 @@
 # Complete-Cisco-Networking-Portfolio
 
 Guides and Configurations for Cisco, Networking and Cybersecurity related Projects. <br />
+The Word documents for these Labs are in the repository and are a bit easier to navigate, however PDF will work fine. <br />
 
 My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications_.pdf)
 * [Complete Portfolio in one file](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
