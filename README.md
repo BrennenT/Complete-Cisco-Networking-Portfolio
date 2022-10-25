@@ -23,9 +23,9 @@ Linux
    * [Two Linux Distribution Configuration](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Linux/Linux%20Distributions%20Lab.pdf)
    *  Both RADIUS and PfSense run on Linux Distributions
 Amazon AWS
-   * [EC2](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20EC2%20Instance.pdf)
-   * [EBS](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20EBS%20Instance.pdf)
-   * [Load Balancing](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20Load%20Balancing.pdf)
+   * [AWS EC2](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20EC2%20Instance.pdf)
+   * [AWS EBS](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20EBS%20Instance.pdf)
+   * [AWS Load Balancing](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20Load%20Balancing.pdf)
    
  Routing
   * BGP
