@@ -19,15 +19,15 @@ Network Security/Administration
    * [PfSense](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/PfSense%20Configuration.docx)
 
 
-* Linux
+Linux
    * [Two Linux Distribution Configuration](lete-Cisco-Networking-Portfolio/blob/main/Portfolio/Linux%20Distributions%20Lab.docx)
    *  Both RADIUS and PfSense run on Linux Distribtions
-* Amazon AWS
+Amazon AWS
    * [EC2](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EC2%20Instance.docx)
    * [EBS](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20EBS%20Instance.docx)
    * [Load Balancing](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/AWS%20Load%20Balancing.docx)
    
-* Routing
+ Routing
   * BGP
     * [eBGP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20eBGP%20Redistribution.docx)
     * [iBGP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20iBGP%20Routing.docx)
