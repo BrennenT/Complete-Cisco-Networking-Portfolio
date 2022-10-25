@@ -2,12 +2,12 @@
 
 Guides and Configurations for Cisco, Networking and Cybersecurity related Projects.
 Projects
-* My [Certifications](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Certifications_.docx)
-* [Complete Portfolio in one file](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
+My [Certifications](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Certifications_.docx)
+[Complete Portfolio in one file](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
 
 
 
-* Network Security/Administration
+Network Security/Administration
  * AAA
    * RADIUS
    * TACACS+
