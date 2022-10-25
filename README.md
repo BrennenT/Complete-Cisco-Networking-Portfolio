@@ -9,14 +9,14 @@ Projects
 
 * Network Security/Administration
  * AAA
-  * RADIUS
-  * TACACS+
+   * RADIUS
+   * TACACS+
  * Windows Administration
-  * Active Directory
-  * Group Policy Objects for Security
+   * Active Directory
+   * Group Policy Objects for Security
  * Firewalls/Routers
-  * Palo Alto
-  * PfSense
+   * Palo Alto
+   * PfSense
 
 
 
