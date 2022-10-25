@@ -2,7 +2,7 @@
 
 Guides and Configurations for Cisco, Networking and Cybersecurity related Projects. <br />
 
-My [Certifications](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Certifications_.docx)
+My [Certifications]([https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Certifications_.docx](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications/Certifications_.pdf))
 * [Complete Portfolio in one file](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
 
 
