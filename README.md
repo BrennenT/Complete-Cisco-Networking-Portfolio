@@ -4,7 +4,22 @@ Guides and Configurations for Cisco, Networking and Cybersecurity related Projec
 Projects
 * My [Certifications](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Certifications_.docx)
 * [Complete Portfolio in one file](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse.docx)
+
+
+
 * Network Security/Administration
+ * AAA
+  * RADIUS
+  * TACACS+
+ * Windows Administration
+  * Active Directory
+  * Group Policy Objects for Security
+ * Firewalls/Routers
+  * Palo Alto
+  * PfSense
+
+
+
 * Linux
 * Amazon AWS
 * Routing
