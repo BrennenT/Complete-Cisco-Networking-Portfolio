@@ -12,11 +12,11 @@ Projects
     * [eBGP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20eBGP%20Redistribution.docx)
     * [iBGP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20iBGP%20Routing.docx)
   * OSPF
-   * [Single-Area](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20Single-Area%20OSPF.docx)
-   * [Multi-Area](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20Multi-Area%20OSPF.docx)
+    * [Single-Area](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20Single-Area%20OSPF.docx)
+    * [Multi-Area](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20Multi-Area%20OSPF.docx)
   * EIGRP
     * [EIGRP](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/Configuring%20EIGRP.docx)
   * VRF
-   * [VRF](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/VRF%20Lite.docx)
+    * [VRF](https://github.com/BrennenT/Complete-Cisco-Networking-Portfolio/blob/main/Portfolio/VRF%20Lite.docx)
 
 
