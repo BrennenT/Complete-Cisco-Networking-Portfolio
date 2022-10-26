@@ -9,12 +9,12 @@ My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecuri
 
 
 Network Security/Administration
+* Windows Administration
+   * [Active Directory](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Windows%20Domain%20Controller%20and%20Client.pdf)
+   * [Group Policy Objects for Security](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Group%20Policy%20Objects%20for%20User%20Security.pdf)
  * AAA
    * [RADIUS](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/AAA/Configuring%20RADIUS%20(AAA).pdf)
    * [TACACS+](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/AAA/Configuring%20TACACS%2B%20(AAA).pdf)
- * Windows Administration
-   * [Active Directory](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Windows%20Domain%20Controller%20and%20Client.pdf)
-   * [Group Policy Objects for Security](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Group%20Policy%20Objects%20for%20User%20Security.pdf)
  * Firewalls/Routers
    * Palo Alto
    * [PfSense](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Firewalls-Routers/PfSense%20Configuration.pdf)
