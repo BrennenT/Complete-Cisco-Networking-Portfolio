@@ -28,7 +28,7 @@ Amazon AWS
    * [AWS EBS](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20EBS%20Instance.pdf)
    * [AWS Load Balancing](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Amazon%20AWS/AWS%20Load%20Balancing.pdf)
    
- Routing
+ Routing-Protocols
   * BGP
     * [eBGP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20eBGP%20Redistribution.pdf)
     * [iBGP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20iBGP%20Routing.pdf)
@@ -39,5 +39,12 @@ Amazon AWS
     * [EIGRP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20EIGRP.pdf)
   * VRF Lite
     * [VRF](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/VRF%20Lite.pdf)
-
+<br />
+Software
+  * VirtualBox
+  * VMWare
+  * VSCode
+  * WireShark
+  * PAN-OS
+  * AWS-CLI
 
