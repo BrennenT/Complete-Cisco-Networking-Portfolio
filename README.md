@@ -40,8 +40,8 @@ Amazon AWS
   * VRF Lite
     * [VRF](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/VRF%20Lite.pdf)
 <br />
-Software
-  *  VirtualBox
+Software <br />
+  *  VirtualBox <br />
   *  VMWare
   *  VSCode
   * WireShark
