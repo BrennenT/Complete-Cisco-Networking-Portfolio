@@ -42,9 +42,9 @@ Amazon AWS
 <br />
 Software <br />
   *  VirtualBox <br />
-  *  VMWare
-  *  VSCode
-  * WireShark
-  * PAN-OS
-  * AWS-CLI
+  *  VMWare <br />
+  *  VSCode <br />
+  * WireShark <br />
+  * PAN-OS <br />
+  * AWS-CLI 
 
