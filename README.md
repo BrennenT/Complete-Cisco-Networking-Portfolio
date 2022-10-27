@@ -39,7 +39,6 @@ Amazon AWS
     * [EIGRP](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/Configuring%20EIGRP.pdf)
   * VRF Lite
     * [VRF](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Routing/VRF%20Lite.pdf)
-<br />
 Software <br />
   *  VirtualBox <br />
   *  VMWare <br />
