@@ -42,8 +42,8 @@ Amazon AWS
    * HSRP <br />
 
 Wireless
-  * Wireless Access Points <br />
-  * Wireless Lan Controller (Work in Progress)
+  * Wireless Access Points (WIP) <br />
+  * Wireless Lan Controller (WIP)
   
 Software <br />
   * [VirtualBox](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Network%20Security-Administration/Windows%20Administration/Configuring%20Windows%20Domain%20Controller%20and%20Client.pdf)
