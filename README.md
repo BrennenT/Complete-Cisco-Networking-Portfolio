@@ -1,4 +1,4 @@
-# Complete-Cisco-Networking-Portfolio
+# Complete-Cisco-Networking/Cybersecurity-Portfolio
 
 Guides and Configurations for Cisco, Networking and Cybersecurity related Projects. <br />
 The Word documents for these Labs are in the repository and are a bit easier to navigate with tables of contents and hyperlinks, however PDF will work fine. <br />
