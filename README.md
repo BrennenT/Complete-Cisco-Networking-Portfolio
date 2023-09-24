@@ -6,7 +6,7 @@ The Word documents for these Labs are in the repository and are a bit easier to 
 My [Certifications](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Certifications_.pdf)
 * [Complete Portfolio in one file](https://github.com/BrennenT7/Complete-Networking-Cybersecurity-Portfolio/blob/main/Portfolio/Complete%20Networking%20Portfolio%20Brennen%20Tse%202.pdf)
 
-AWS [Honeypot](https://github.com/BrennenT7/AWS-Honey-Pot-Project)  
+# AWS Honeypot[Project](https://github.com/BrennenT7/AWS-Honey-Pot-Project)  
 
 Network Security/Administration
 * Windows Administration
